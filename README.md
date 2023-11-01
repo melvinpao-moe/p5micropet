@@ -1,5 +1,5 @@
 
-> Open this page at [https://melvinpao-moe.github.io/p5micropet/](https://melvinpao-moe.github.io/p5micropet/)
+> Open this page at [https://melvinpao-moe.github.io/p5micropet-v1/](https://melvinpao-moe.github.io/p5micropet-v1/)
 
 ## Use as Extension
 
